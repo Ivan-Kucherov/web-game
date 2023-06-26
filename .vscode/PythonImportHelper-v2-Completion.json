@@ -1,0 +1,1502 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jwt",
+        "description": "jwt",
+        "detail": "jwt",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "authentication",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddlewareStack",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.forms",
+        "description": "django.forms",
+        "isExtraImport": true,
+        "detail": "django.forms",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "AccessToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "database_sync_to_async",
+        "importPath": "channels.db",
+        "description": "channels.db",
+        "isExtraImport": true,
+        "detail": "channels.db",
+        "documentation": {}
+    },
+    {
+        "label": "Memory",
+        "importPath": "webgame.game.asgi.game",
+        "description": "webgame.game.asgi.game",
+        "isExtraImport": true,
+        "detail": "webgame.game.asgi.game",
+        "documentation": {}
+    },
+    {
+        "label": "njit",
+        "importPath": "numba",
+        "description": "numba",
+        "isExtraImport": true,
+        "detail": "numba",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "webgame.game",
+        "description": "webgame.game",
+        "isExtraImport": true,
+        "detail": "webgame.game",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "PageNumberPagination",
+        "importPath": "rest_framework.pagination",
+        "description": "rest_framework.pagination",
+        "isExtraImport": true,
+        "detail": "rest_framework.pagination",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthentication",
+        "importPath": "rest_framework_simplejwt.authentication",
+        "description": "rest_framework_simplejwt.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "game",
+        "importPath": "webgame.game.asgi",
+        "description": "webgame.game.asgi",
+        "isExtraImport": true,
+        "detail": "webgame.game.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequestSerializer",
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "isExtraImport": true,
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UsersSerializer",
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "isExtraImport": true,
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequestSerializer",
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "isExtraImport": true,
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "websockets",
+        "importPath": "webgame.game.asgi.routing",
+        "description": "webgame.game.asgi.routing",
+        "isExtraImport": true,
+        "detail": "webgame.game.asgi.routing",
+        "documentation": {}
+    },
+    {
+        "label": "AllowedHostsOriginValidator",
+        "importPath": "channels.security.websocket",
+        "description": "channels.security.websocket",
+        "isExtraImport": true,
+        "detail": "channels.security.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "ObtainAuthToken",
+        "importPath": "rest_framework.authtoken.views",
+        "description": "rest_framework.authtoken.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.views",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "rest_framework.authtoken",
+        "description": "rest_framework.authtoken",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken",
+        "documentation": {}
+    },
+    {
+        "label": "Print",
+        "importPath": "webgame.views",
+        "description": "webgame.views",
+        "isExtraImport": true,
+        "detail": "webgame.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "AuthConfig",
+        "kind": 6,
+        "importPath": "webgame.#auth.apps",
+        "description": "webgame.#auth.apps",
+        "peekOfCode": "class AuthConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'auth'",
+        "detail": "webgame.#auth.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "webgame.#auth.models",
+        "description": "webgame.#auth.models",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    \"\"\"\n    Django требует, чтобы кастомные пользователи определяли свой собственный\n    класс Manager. Унаследовавшись от BaseUserManager, мы получаем много того\n    же самого кода, который Django использовал для создания User (для демонстрации).\n    \"\"\"\n    def create_user(self, username, email, password=None):\n        \"\"\" Создает и возвращает пользователя с имэйлом, паролем и именем. \"\"\"\n        if username is None:\n            raise TypeError('Users must have a username.')",
+        "detail": "webgame.#auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "webgame.#auth.models",
+        "description": "webgame.#auth.models",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    # Каждому пользователю нужен понятный человеку уникальный идентификатор,\n    # который мы можем использовать для предоставления User в пользовательском\n    # интерфейсе. Мы так же проиндексируем этот столбец в базе данных для\n    # повышения скорости поиска в дальнейшем.\n    username = models.CharField(db_index=True, max_length=255, unique=True)\n    # Так же мы нуждаемся в поле, с помощью которого будем иметь возможность\n    # связаться с пользователем и идентифицировать его при входе в систему.\n    # Поскольку адрес почты нам нужен в любом случае, мы также будем\n    # использовать его для входы в систему, так как это наиболее",
+        "detail": "webgame.#auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationSerializer",
+        "kind": 6,
+        "importPath": "webgame.#auth.serializers",
+        "description": "webgame.#auth.serializers",
+        "peekOfCode": "class RegistrationSerializer(serializers.ModelSerializer):\n    \"\"\" Сериализация регистрации пользователя и создания нового. \"\"\"\n    # Убедитесь, что пароль содержит не менее 8 символов, не более 128,\n    # и так же что он не может быть прочитан клиентской стороной\n    password = serializers.CharField(\n        max_length=128,\n        min_length=8,\n        write_only=True\n    )\n    # Клиентская сторона не должна иметь возможность отправлять токен вместе с",
+        "detail": "webgame.#auth.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "webgame.#auth.urls",
+        "description": "webgame.#auth.urls",
+        "peekOfCode": "app_name = 'authentication'\nurlpatterns = [\n    path('users/', RegistrationAPIView.as_view()),\n]",
+        "detail": "webgame.#auth.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webgame.#auth.urls",
+        "description": "webgame.#auth.urls",
+        "peekOfCode": "urlpatterns = [\n    path('users/', RegistrationAPIView.as_view()),\n]",
+        "detail": "webgame.#auth.urls",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationAPIView",
+        "kind": 6,
+        "importPath": "webgame.#auth.views",
+        "description": "webgame.#auth.views",
+        "peekOfCode": "class RegistrationAPIView(APIView):\n    \"\"\"\n    Разрешить всем пользователям (аутентифицированным и нет) доступ к данному эндпоинту.\n    \"\"\"\n    permission_classes = (AllowAny,)\n    serializer_class = RegistrationSerializer\n    def post(self, request):\n        user = request.data.get('user', {})\n        # Паттерн создания сериализатора, валидации и сохранения - довольно\n        # стандартный, и его можно часто увидеть в реальных проектах.",
+        "detail": "webgame.#auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "GameConsumer",
+        "kind": 6,
+        "importPath": "webgame.game.asgi.consumer",
+        "description": "webgame.game.asgi.consumer",
+        "peekOfCode": "class GameConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        user = self.scope[\"url_route\"][\"kwargs\"][\"token\"]\n        access_token_obj = AccessToken(user)\n        user_id=access_token_obj['user_id']\n        user= await self.get_name(user_id)\n        self.room_name = self.scope[\"url_route\"][\"kwargs\"][\"game_id\"]\n        self.room_group_name = \"game_%s\" % self.room_name\n        Memory.CreateGame(self.room_group_name\n        await self.channel_layer.group_add(self.room_group_name, self.channel_name)",
+        "detail": "webgame.game.asgi.consumer",
+        "documentation": {}
+    },
+    {
+        "label": "GameConsumerAnonymous",
+        "kind": 6,
+        "importPath": "webgame.game.asgi.consumer",
+        "description": "webgame.game.asgi.consumer",
+        "peekOfCode": "class GameConsumerAnonymous(AsyncWebsocketConsumer):\n    async def connect(self):\n        self.room_name = self.scope[\"url_route\"][\"kwargs\"][\"game_id\"]\n        self.room_group_name = \"game_%s\" % self.room_name\n        await self.channel_layer.group_add(self.room_group_name, self.channel_name)\n        await self.accept()\n    async def disconnect(self, close_code):\n        # Leave room group\n        await self.channel_layer.group_discard(self.room_group_name, self.channel_name)\n    # Receive message from WebSocket",
+        "detail": "webgame.game.asgi.consumer",
+        "documentation": {}
+    },
+    {
+        "label": "Memory",
+        "kind": 6,
+        "importPath": "webgame.game.asgi.game",
+        "description": "webgame.game.asgi.game",
+        "peekOfCode": "class Memory:\n    def __init__(self):\n        self.redis_storage = redis.StrictRedis(host=settings.REDIS_HOST, port=settings.REDIS_PORT, db=1)\n    def CreateGame(self, user1,user2,room):\n        if self.redis_storage.exists(room) == 1:\n            temp = self.redis_storage.lrange(room, 0, 4)\n            map = np.frombuffer(temp[2],dtype=np.bool_).reshape((16,16,5))\n            return map\n        else:\n            g = Game()",
+        "detail": "webgame.game.asgi.game",
+        "documentation": {}
+    },
+    {
+        "label": "Game",
+        "kind": 6,
+        "importPath": "webgame.game.asgi.game",
+        "description": "webgame.game.asgi.game",
+        "peekOfCode": "class Game:\n    def __init__(self,map=None,player0=None,player1=None,playOne=True):\n        if map is None:\n            self.player0 = playOne\n            self.map = np.zeros((16,16,5), dtype=np.bool_)\n            self.map[6,9,0] = True\n            self.map[6,9,2] = True\n            self.map[9,6,1] = True\n            self.map[9,6,3] = True\n            self.player0pos = np.array([6,9])",
+        "detail": "webgame.game.asgi.game",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "webgame.game.asgi.game",
+        "description": "webgame.game.asgi.game",
+        "peekOfCode": "def index(array, item):\n    for idx, val in np.ndenumerate(array):\n        if val == item:\n            return idx\nclass Memory:\n    def __init__(self):\n        self.redis_storage = redis.StrictRedis(host=settings.REDIS_HOST, port=settings.REDIS_PORT, db=1)\n    def CreateGame(self, user1,user2,room):\n        if self.redis_storage.exists(room) == 1:\n            temp = self.redis_storage.lrange(room, 0, 4)",
+        "detail": "webgame.game.asgi.game",
+        "documentation": {}
+    },
+    {
+        "label": "websockets",
+        "kind": 5,
+        "importPath": "webgame.game.asgi.routing",
+        "description": "webgame.game.asgi.routing",
+        "peekOfCode": "websockets = [\n    re_path(\n        r\"^ws/live-score/(?P<game_id>[!^\\d]+)/$\", GameConsumerAnonymous.as_asgi(),\n        name=\"live-score\",\n    ),\n    re_path(\n        r\"^ws/live-score/(?P<game_id>[!^\\d]+)/(?P<token>[^/]+)/$\", GameConsumer.as_asgi(),\n        name=\"live-score\",\n    ),\n]",
+        "detail": "webgame.game.asgi.routing",
+        "documentation": {}
+    },
+    {
+        "label": "GameConfig",
+        "kind": 6,
+        "importPath": "webgame.game.apps",
+        "description": "webgame.game.apps",
+        "peekOfCode": "class GameConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'game'",
+        "detail": "webgame.game.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "webgame.game.models",
+        "description": "webgame.game.models",
+        "peekOfCode": "class Player(models.Model):\n    user = models.OneToOneField(User, on_delete=models.SET_NULL)\n    wins = models.IntegerField(default=0)\n    games = models.IntegerField(default=0)\n    def __str__(self):\n        return self.username\n#class Results",
+        "detail": "webgame.game.models",
+        "documentation": {}
+    },
+    {
+        "label": "UsersSerializer",
+        "kind": 6,
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "peekOfCode": "class UsersSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = ('username', 'email', 'id')\nclass LoginRequestSerializer(serializers.Serializer):\n    model = User\n    username = serializers.CharField(required=True)\n    password = serializers.CharField(required=True)\nclass RegisterRequestSerializer(serializers.Serializer):\n    model = User",
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequestSerializer",
+        "kind": 6,
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "peekOfCode": "class LoginRequestSerializer(serializers.Serializer):\n    model = User\n    username = serializers.CharField(required=True)\n    password = serializers.CharField(required=True)\nclass RegisterRequestSerializer(serializers.Serializer):\n    model = User\n    username = serializers.CharField(required=True)\n    email = serializers.CharField(required=True)\n    password = serializers.CharField(required=True)\n    password2 = serializers.CharField(required=True)",
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterRequestSerializer",
+        "kind": 6,
+        "importPath": "webgame.game.serializers",
+        "description": "webgame.game.serializers",
+        "peekOfCode": "class RegisterRequestSerializer(serializers.Serializer):\n    model = User\n    username = serializers.CharField(required=True)\n    email = serializers.CharField(required=True)\n    password = serializers.CharField(required=True)\n    password2 = serializers.CharField(required=True)\n#class MoveSerializer(serializers.Serializer):\n   #st = serializers.ListField(child=serializers.IntegerField())\n   #end = serializers.ListField(child=serializers.IntegerField())\n   #user  = self.context.get(\"request\").user",
+        "detail": "webgame.game.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "webgame.game.urls",
+        "description": "webgame.game.urls",
+        "peekOfCode": "router = routers.SimpleRouter()\nrouter.register(r'users',views.UsersViewSet)\nurlpatterns = [\n    path('atest/',views.Atest.as_view()),\n    path('movebot/',views.MoveBot.as_view()),\n    path('creategame/',views.CreateGame.as_view()),\n    path('register/', views.RegisterAPI.as_view(), name='register'),\n    path('login/', views.LoginAPI.as_view(), name='login'),\n    path('refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('api/token/obtain', TokenObtainPairView.as_view(), name='token_obtain'),",
+        "detail": "webgame.game.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webgame.game.urls",
+        "description": "webgame.game.urls",
+        "peekOfCode": "urlpatterns = [\n    path('atest/',views.Atest.as_view()),\n    path('movebot/',views.MoveBot.as_view()),\n    path('creategame/',views.CreateGame.as_view()),\n    path('register/', views.RegisterAPI.as_view(), name='register'),\n    path('login/', views.LoginAPI.as_view(), name='login'),\n    path('refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    path('api/token/obtain', TokenObtainPairView.as_view(), name='token_obtain'),\n]\nurlpatterns += router.urls",
+        "detail": "webgame.game.urls",
+        "documentation": {}
+    },
+    {
+        "label": "LargeResultsSetPagination",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class LargeResultsSetPagination(PageNumberPagination):\n    page_size = 100\n    page_size_query_param = 'page_size'\n    max_page_size = 100\nclass StandardResultsSetPagination(PageNumberPagination):\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 20\nclass ListUsers(APIView):\n    \"\"\"",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "StandardResultsSetPagination",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class StandardResultsSetPagination(PageNumberPagination):\n    page_size = 20\n    page_size_query_param = 'page_size'\n    max_page_size = 20\nclass ListUsers(APIView):\n    \"\"\"\n    View to list all users in the system.\n    * Requires token authentication.\n    * Only admin users are able to access this view.\n    \"\"\"",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListUsers",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class ListUsers(APIView):\n    \"\"\"\n    View to list all users in the system.\n    * Requires token authentication.\n    * Only admin users are able to access this view.\n    \"\"\"\n    #authentication_classes = [authentication.TokenAuthentication]\n    #permission_classes = [permissions.IsAuthenticated]\n    def get(self, request, format=None):\n        \"\"\"",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "UsersViewSet",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class UsersViewSet(viewsets.ReadOnlyModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UsersSerializer\n    pagination_class = StandardResultsSetPagination\n'''\nclass GameBot(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def post(self, request, format=None):\n        #redis_storage.set('0',redis_storage.get('0') + 1)",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "GameBot",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class GameBot(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def post(self, request, format=None):\n        #redis_storage.set('0',redis_storage.get('0') + 1)\n        #redis_storage.lpush('1',1,2,3)\n        if redis_storage.exists('b_'+request.user.id) == 1:\n            return Response('was started',status=210)\n        else:\n            game_id = str(uuid.uuid1())",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "GamePlayer",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class GamePlayer(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request, format=None):\n        if redis_storage.exists('wait') == 1:\n            wait = redis_storage.lrange('wait', 0, -1)\n            if request.user.id in wait:\n                return Response('was started',status=210)\n            else:\n                game_id = str(uuid.uuid1())",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginAPI",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class LoginAPI(APIView):\n    permission_classes = [permissions.AllowAny]\n    def post(self, request, format=None):\n        serializer = LoginRequestSerializer(data=request.data)\n        if serializer.is_valid():\n            authenticated_user = authenticate(**serializer.validated_data)\n            if authenticated_user is not None:\n                return Response(get_tokens_for_user(authenticated_user),status=200)\n            else:\n                return Response({'error': 'Invalid credentials'}, status=403)",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterAPI",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class RegisterAPI(APIView):\n    permission_classes = [permissions.AllowAny]\n    def post(self, request, format=None):\n        serializer = RegisterRequestSerializer(data=request.data)\n        if serializer.is_valid():\n            auth_user = authenticate(username=serializer.validated_data['username'],password=serializer.validated_data['password'])\n            if auth_user is not None:\n                return Response(get_tokens_for_user(auth_user), status=201)\n            if User.objects.filter(username=serializer.validated_data['username']).exists():\n                return Response(\"Name is in use\",status=409)",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "Atest",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class Atest(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request, format=None):\n        return Response(request.user.username,status=200)\nclass MoveBot(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request, format=None):\n        print(np.array(request.data))",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "MoveBot",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class MoveBot(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request, format=None):\n        print(np.array(request.data))\n        return Response(request.user.username,status=200)\nclass CreateGame(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request, format=None):",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "CreateGame",
+        "kind": 6,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "class CreateGame(APIView):\n    authentication_classes = [JWTAuthentication]\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request, format=None):\n        if redis_storage.exists('b_'+str(request.user.id)) == 1:\n            map=np.frombuffer(redis_storage.get('b_'+str(request.user.id)),dtype=type(True)).reshape((16,16,4))\n            print(map)\n            g = game.Game(map=map)\n            return Response({'map':g.map,\n                             'player0':g.player0pos,",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_tokens_for_user",
+        "kind": 2,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "def get_tokens_for_user(user):\n    refresh = RefreshToken.for_user(user)\n    return {\n        'refresh': str(refresh),\n        'access': str(refresh.access_token),\n    }\nclass LargeResultsSetPagination(PageNumberPagination):\n    page_size = 100\n    page_size_query_param = 'page_size'\n    max_page_size = 100",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "redis_storage",
+        "kind": 5,
+        "importPath": "webgame.game.views",
+        "description": "webgame.game.views",
+        "peekOfCode": "redis_storage = redis.StrictRedis(host=settings.REDIS_HOST, port=settings.REDIS_PORT, db=0)\ndef get_tokens_for_user(user):\n    refresh = RefreshToken.for_user(user)\n    return {\n        'refresh': str(refresh),\n        'access': str(refresh.access_token),\n    }\nclass LargeResultsSetPagination(PageNumberPagination):\n    page_size = 100\n    page_size_query_param = 'page_size'",
+        "detail": "webgame.game.views",
+        "documentation": {}
+    },
+    {
+        "label": "WebgameConfig",
+        "kind": 6,
+        "importPath": "webgame.apps",
+        "description": "webgame.apps",
+        "peekOfCode": "class WebgameConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'webgame'",
+        "detail": "webgame.apps",
+        "documentation": {}
+    },
+    {
+        "label": "JWTAuthMiddleware",
+        "kind": 6,
+        "importPath": "webgame.asgi",
+        "description": "webgame.asgi",
+        "peekOfCode": "class JWTAuthMiddleware:\n    \"\"\"\n    Custom middleware (insecure) that takes user IDs from the query string.\n    \"\"\"\n    def __init__(self, app):\n        # Store the ASGI application we were passed\n        self.app = app\n    async def __call__(self, scope, receive, send):\n        # Look up user from query string (you should also do things like\n        # checking if it is a valid user ID, or if scope[\"user\"] is already",
+        "detail": "webgame.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "webgame.asgi",
+        "description": "webgame.asgi",
+        "peekOfCode": "def get_user(user_id):\n    try:\n        return User.objects.get(id=user_id)\n    except User.DoesNotExist:\n        return AnonymousUser()\nclass JWTAuthMiddleware:\n    \"\"\"\n    Custom middleware (insecure) that takes user IDs from the query string.\n    \"\"\"\n    def __init__(self, app):",
+        "detail": "webgame.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "django_asgi_app",
+        "kind": 5,
+        "importPath": "webgame.asgi",
+        "description": "webgame.asgi",
+        "peekOfCode": "django_asgi_app = get_asgi_application()\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AllowedHostsOriginValidator(\n            AuthMiddlewareStack(URLRouter(websockets))),\n    # Just HTTP for now. (We can add other protocols later.)\n})\n'''\ndef get_user(user_id):\n    try:",
+        "detail": "webgame.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "webgame.asgi",
+        "description": "webgame.asgi",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AllowedHostsOriginValidator(\n            AuthMiddlewareStack(URLRouter(websockets))),\n    # Just HTTP for now. (We can add other protocols later.)\n})\n'''\ndef get_user(user_id):\n    try:\n        return User.objects.get(id=user_id)",
+        "detail": "webgame.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "CustomAuthToken",
+        "kind": 6,
+        "importPath": "webgame.auth",
+        "description": "webgame.auth",
+        "peekOfCode": "class CustomAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        serializer = self.serializer_class(data=request.data,\n                                           context={'request': request})\n        serializer.is_valid(raise_exception=True)\n        user = serializer.validated_data['user']\n        token, created = Token.objects.get_or_create(user=user)\n        return Response({\n            'token': token.key,\n            'user_id': user.pk,",
+        "detail": "webgame.auth",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-1w8jdta-mxp2usnsxxh0hw@*ro6hf2%maz=h9iw!e4ucd9@gtn'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']#['192.168.1.6:8000','localhost']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-1w8jdta-mxp2usnsxxh0hw@*ro6hf2%maz=h9iw!e4ucd9@gtn'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['*']#['192.168.1.6:8000','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'daphne',\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']#['192.168.1.6:8000','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'daphne',\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']#['192.168.1.6:8000','localhost']\n# Application definition\nINSTALLED_APPS = [\n    'daphne',\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'daphne',\n    'channels',\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASGI_APPLICATION",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "ASGI_APPLICATION = \"webgame.asgi.application\"\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels_redis.core.RedisChannelLayer',\n        'CONFIG': {\n            \"hosts\": [(\"localhost\", 6379,0)],\n        },\n    },\n}\nMIDDLEWARE = [",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_LAYERS",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "CHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels_redis.core.RedisChannelLayer',\n        'CONFIG': {\n            \"hosts\": [(\"localhost\", 6379,0)],\n        },\n    },\n}\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    'http://127.0.0.1:5173',\n    'http://192.168.1.6:5173',\n]\nROOT_URLCONF = 'webgame.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "ROOT_URLCONF = 'webgame.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'webgame.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nREDIS_HOST = 'localhost'\nREDIS_PORT = 6379\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_HOST",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "REDIS_HOST = 'localhost'\nREDIS_PORT = 6379\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_PORT",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "REDIS_PORT = 6379\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nREST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nSIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=75),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=7),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True,",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(minutes=75),\n    \"REFRESH_TOKEN_LIFETIME\": timedelta(days=7),\n    \"ROTATE_REFRESH_TOKENS\": True,\n    \"BLACKLIST_AFTER_ROTATION\": True,\n    \"UPDATE_LAST_LOGIN\": False,\n    \"ALGORITHM\": \"HS256\",\n    \"SIGNING_KEY\": \"settings.SECRET_KEY\",\n    \"VERIFYING_KEY\": \"\",\n    \"AUDIENCE\": None,",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nGAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nGAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nGAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nGAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nGAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "GAME_TIME",
+        "kind": 5,
+        "importPath": "webgame.settings",
+        "description": "webgame.settings",
+        "peekOfCode": "GAME_TIME = 1800",
+        "detail": "webgame.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "webgame.urls",
+        "description": "webgame.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', Print.as_view()),\n    path('admin/', admin.site.urls),\n    path('game/', include('webgame.game.urls')),\n    #path('api/', include('webgame.auth.urls', namespace='authentication')),\n]",
+        "detail": "webgame.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Print",
+        "kind": 6,
+        "importPath": "webgame.views",
+        "description": "webgame.views",
+        "peekOfCode": "class Print(APIView):\n    def get(self, request, format=None):\n        print(request)\n        return Response(str(request.data))\n    def post(self, request, format=None):\n        print(request)\n        return Response(str(request))",
+        "detail": "webgame.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "webgame.wsgi",
+        "description": "webgame.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "webgame.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'webgame.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
